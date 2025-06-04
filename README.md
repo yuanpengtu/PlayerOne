@@ -39,23 +39,17 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 ## &#x1F4CC; Updates
 * [2025.6.10] 🔥 Our [paper](https://arxiv.org/abs/2410.10306) is in public on arxiv.
 
-[点击这里下载并观看视频1](/assets/MotionVideoAlign.mp4)
-
-<video style="width: 100%; height: auto;" controls>
-  <source src="/assets/MotionVideoAlign.mp4" type="video/mp4">
-  您的浏览器不支持 video 标签。
-</video>
 
 
 
-<!-- <video controls loop src="https://cloud.video.taobao.com/vod/vs4L24EAm6IQ5zM3SbN5AyHCSqZIXwmuobrzqNztMRM.mp4" muted="false"></video> -->
+
 
 ## &#x1F304; Gallery
 ### Demonstration of Motion Video Alignment 
 <table class="center">
 <tr>
     <td width=98% style="border: none">
-        <video controls loop src="[/assets/MotionVideoAlign.mp4](https://github.com/yuanpengtu/PlayerOne/raw/refs/heads/main/assets/AblationStudy.mp4)" muted="false"></video>
+        <video controls loop src="/assets/MotionVideoAlign.mp4" muted="false"></video>
     </td>
 </tr>
 </table>
@@ -68,7 +62,7 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
         <video controls loop src="/assets/example1.mp4" muted="false"></video>
     </td>
         <td width=50% style="border: none">
-        <video controls loop src="/assets/example2.mp4" muted="false"></video>
+        <video controls loop src="/assets/Moreexample.mp4" muted="false"></video>
     </td>
 </tr>
 </table>
