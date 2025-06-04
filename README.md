@@ -55,16 +55,24 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 
 
 ### More simulated videos produced by PlayerOne
-<table class="center">
-<tr>
-    <td width=47% style="border: none">
-        <video controls preload="auto" src="[./assets/AblationStudy.mp4](https://github.com/yuanpengtu/PlayerOne/raw/refs/heads/main/assets/AblationStudy.mp4)"></video>
-    </td>
-    <td width=53% style="border: none">
-        <video controls loop src="https://github.com/yuanpengtu/PlayerOne/raw/refs/heads/main/assets/AblationStudy.mp4" muted="false"></video>
-    </td>
-</tr>
-</table>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  
+  <div style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <video width="300" controls>
+      <source src="/assets/example1.mp4" type="video/mp4">
+      您的浏览器不支持 video 标签。
+    </video>
+    <p style="text-align: center; margin-top: 8px;">视频标题 1</p>
+  </div>
+  
+  <div style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <video width="300" controls>
+      <source src="/assets/example1.mp4" type="video/mp4">
+      您的浏览器不支持 video 标签。
+    </video>
+    <p style="text-align: center; margin-top: 8px;">视频标题 2</p>
+  </div>
+
 
 
 
