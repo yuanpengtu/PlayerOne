@@ -39,6 +39,7 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 ## &#x1F4CC; Updates
 * [2025.6.10] 🔥 Our [paper](https://arxiv.org/abs/2410.10306) is in public on arxiv.
 
+[点击这里下载并观看视频1](/assets/MotionVideoAlign.mp4)
 
 <video style="width: 100%; height: auto;" controls>
   <source src="/assets/MotionVideoAlign.mp4" type="video/mp4">
