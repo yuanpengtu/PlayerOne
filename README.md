@@ -72,7 +72,7 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 
 ### Comparisons with previous works
 
-# from left to right: Ours/Cosmos-7B/Cosmos-14B/Aether
+##### from left to right: Ours/Cosmos-7B/Cosmos-14B/Aether
 
 <table class="center">
 <tr>
