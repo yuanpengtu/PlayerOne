@@ -40,6 +40,12 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 * [2025.6.10] 🔥 Our [paper](https://arxiv.org/abs/2410.10306) is in public on arxiv.
 
 
+<video style="width: 100%; height: auto;" controls>
+  <source src="/assets/MotionVideoAlign.mp4" type="video/mp4">
+  您的浏览器不支持 video 标签。
+</video>
+
+
 
 <!-- <video controls loop src="https://cloud.video.taobao.com/vod/vs4L24EAm6IQ5zM3SbN5AyHCSqZIXwmuobrzqNztMRM.mp4" muted="false"></video> -->
 
@@ -55,23 +61,16 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 
 
 ### More simulated videos produced by PlayerOne
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  
-  <div style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <video width="300" controls>
-      <source src="https://github.com/yuanpengtu/PlayerOne/raw/refs/heads/main/assets/AblationStudy.mp4" type="video/mp4">
-      您的浏览器不支持 video 标签。
-    </video>
-    <p style="text-align: center; margin-top: 8px;">视频标题 1</p>
-  </div>
-  
-  <div style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <video width="300" controls>
-      <source src="https://github.com/yuanpengtu/PlayerOne/raw/refs/heads/main/assets/AblationStudy.mp4" type="video/mp4">
-      您的浏览器不支持 video 标签。
-    </video>
-    <p style="text-align: center; margin-top: 8px;">视频标题 2</p>
-  </div>
+<table class="center">
+<tr>
+    <td width=50% style="border: none">
+        <video controls loop src="/assets/example1.mp4" muted="false"></video>
+    </td>
+        <td width=50% style="border: none">
+        <video controls loop src="/assets/example2.mp4" muted="false"></video>
+    </td>
+</tr>
+</table>
 
 
 
