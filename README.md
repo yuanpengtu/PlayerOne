@@ -71,13 +71,15 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 
 
 ### Comparisons with previous works
+
+
 <table class="center">
 <tr>
     <td width=50% style="border: none">
-        <video controls loop src="/assets/example1.mp4" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/73d53b31-ac48-4b97-b2bf-a3d8c1d4f3ff" muted="false"></video>
     </td>
         <td width=50% style="border: none">
-          <img src="assets/AblationStudy.gif" alt="Ablation Study" width="500">
+        <video controls loop src="https://github.com/user-attachments/assets/3488092a-f918-4c7d-86ee-b0de46668ccd" muted="false"></video>
     </td>
 </tr>
 </table>
@@ -85,10 +87,10 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 <table class="center">
 <tr>
     <td width=50% style="border: none">
-        <video controls loop src="/assets/example3.mp4" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/f3a23204-69b9-45f3-8f70-ba0d7aba1bff" muted="false"></video>
     </td>
         <td width=50% style="border: none">
-        <video controls loop src="/assets/example4.mp4" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/a361bba9-a406-461c-aa78-099ef9b0206f" muted="false"></video>
     </td>
 </tr>
 </table>
@@ -96,14 +98,24 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 <table class="center">
 <tr>
     <td width=50% style="border: none">
-        <video controls loop src="/assets/example5.mp4" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/349b69c2-5333-42f2-88ac-742de6bd5a0f" muted="false"></video>
     </td>
         <td width=50% style="border: none">
-        <video controls loop src="/assets/example6.mp4" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/fdc118ff-aa9e-4c20-a444-e6873a1bad2f" muted="false"></video>
     </td>
 </tr>
 </table>
 
+<table class="center">
+<tr>
+    <td width=50% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/cfd1228b-ee4e-4d95-b378-b79c41aa247d" muted="false"></video>
+    </td>
+        <td width=50% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/5fef5527-f938-4484-bf89-51361ff7ee17" muted="false"></video>
+    </td>
+</tr>
+</table>
 
 
 ## &#x1F4E7; Acknowledgement
