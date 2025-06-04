@@ -47,11 +47,8 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 ### Demonstration of Motion Video Alignment 
 <table class="center">
 <tr>
-    <td width=47% style="border: none">
-        <video controls loop src="./" muted="false"></video>
-    </td>
-    <td width=53% style="border: none">
-        <video controls loop src="./" muted="false"></video>
+    <td width=98% style="border: none">
+        <video controls loop src="/assets/MotionVideoAlign.mp4" muted="false"></video>
     </td>
 </tr>
 </table>
@@ -61,10 +58,10 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 <table class="center">
 <tr>
     <td width=47% style="border: none">
-        <video controls loop src="./" muted="false"></video>
+        <video controls loop src="/assets/" muted="false"></video>
     </td>
     <td width=53% style="border: none">
-        <video controls loop src="./" muted="false"></video>
+        <video controls loop src="/assets/AblationStudy.mp4" muted="false"></video>
     </td>
 </tr>
 </table>
@@ -75,10 +72,10 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 <table class="center">
 <tr>
     <td width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/732a3445-2054-4e7b-9c2d-9db21c39771e" muted="false"></video>
+        <video controls loop src="/assets/example1.mp4" muted="false"></video>
     </td>
         <td width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/f25af02c-e5be-4cab-ae64-c9e0b392643a" muted="false"></video>
+        <video controls loop src="/assets/example2.mp4" muted="false"></video>
     </td>
 </tr>
 </table>
@@ -86,10 +83,10 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 <table class="center">
 <tr>
     <td width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/732a3445-2054-4e7b-9c2d-9db21c39771e" muted="false"></video>
+        <video controls loop src="/assets/example3.mp4" muted="false"></video>
     </td>
         <td width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/f25af02c-e5be-4cab-ae64-c9e0b392643a" muted="false"></video>
+        <video controls loop src="/assets/example4.mp4" muted="false"></video>
     </td>
 </tr>
 </table>
@@ -97,10 +94,10 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 <table class="center">
 <tr>
     <td width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/732a3445-2054-4e7b-9c2d-9db21c39771e" muted="false"></video>
+        <video controls loop src="/assets/example5.mp4" muted="false"></video>
     </td>
         <td width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/f25af02c-e5be-4cab-ae64-c9e0b392643a" muted="false"></video>
+        <video controls loop src="/assets/example6.mp4" muted="false"></video>
     </td>
 </tr>
 </table>
