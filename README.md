@@ -116,7 +116,7 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 <table class="center">
 <tr>
     <td width=100% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/c7e74d9f-1d6e-4346-b096-19161c619d46" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/deb30445-6761-41a6-a5b5-3d1566328e96" muted="false"></video>
     </td>
 </tr>
 </table>
