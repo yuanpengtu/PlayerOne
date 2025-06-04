@@ -77,7 +77,7 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
         <video controls loop src="/assets/example1.mp4" muted="false"></video>
     </td>
         <td width=50% style="border: none">
-        ![](assets/AblationStudy.gif)
+          <img src="assets/AblationStudy.gif" alt="Ablation Study" width="500">
     </td>
 </tr>
 </table>
