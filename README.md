@@ -72,36 +72,54 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 
 ### Comparisons with previous works
 
+# from left to right: Ours/Cosmos-7B/Cosmos-14B/Aether
 
 <table class="center">
 <tr>
-    <td height=25% width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/73d53b31-ac48-4b97-b2bf-a3d8c1d4f3ff" muted="false"></video>
-    </td>
-        <td width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/3488092a-f918-4c7d-86ee-b0de46668ccd" muted="false"></video>
+    <td width=100% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/2cfccc9b-7dc1-43f5-8c1f-fa092edfb41c" muted="false"></video>
     </td>
 </tr>
 </table>
-
 <table class="center">
 <tr>
-    <td height=25% width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/f3a23204-69b9-45f3-8f70-ba0d7aba1bff" muted="false"></video>
-    </td>
-        <td height=25% width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/a361bba9-a406-461c-aa78-099ef9b0206f" muted="false"></video>
+    <td width=100% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/db675e43-9ffb-4fd9-851f-fee8a9cef009" muted="false"></video>
     </td>
 </tr>
 </table>
-
 <table class="center">
 <tr>
-    <td width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/349b69c2-5333-42f2-88ac-742de6bd5a0f" muted="false"></video>
+    <td width=100% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/7ed03650-82be-4446-a633-cab9420d4945" muted="false"></video>
     </td>
-        <td width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/fdc118ff-aa9e-4c20-a444-e6873a1bad2f" muted="false"></video>
+</tr>
+</table>
+<table class="center">
+<tr>
+    <td width=100% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/2caaa386-4bea-45ad-b0c5-c58903bdec22" muted="false"></video>
+    </td>
+</tr>
+</table>
+<table class="center">
+<tr>
+    <td width=100% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/e1c83885-fcec-4c08-925b-2597bda57400" muted="false"></video>
+    </td>
+</tr>
+</table>
+<table class="center">
+<tr>
+    <td width=100% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/c7e74d9f-1d6e-4346-b096-19161c619d46" muted="false"></video>
+    </td>
+</tr>
+</table>
+<table class="center">
+<tr>
+    <td width=100% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/a41c39fc-f62d-4f13-9e33-2af91a90821b" muted="false"></video>
     </td>
 </tr>
 </table>
@@ -109,7 +127,7 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 <table class="center">
 <tr>
     <td width=100% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/cfd1228b-ee4e-4d95-b378-b79c41aa247d" muted="false"></video>
+        <video controls loop src="https://github.com/user-attachments/assets/ea06e798-98d3-4a51-8f42-e8cf6d94c54e" muted="false"></video>
     </td>
 </tr>
 </table>
