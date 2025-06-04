@@ -59,7 +59,7 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
   
   <div style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <video width="300" controls>
-      <source src="/assets/example1.mp4" type="video/mp4">
+      <source src="https://github.com/yuanpengtu/PlayerOne/raw/refs/heads/main/assets/AblationStudy.mp4" type="video/mp4">
       您的浏览器不支持 video 标签。
     </video>
     <p style="text-align: center; margin-top: 8px;">视频标题 1</p>
@@ -67,7 +67,7 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
   
   <div style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <video width="300" controls>
-      <source src="/assets/example1.mp4" type="video/mp4">
+      <source src="https://github.com/yuanpengtu/PlayerOne/raw/refs/heads/main/assets/AblationStudy.mp4" type="video/mp4">
       您的浏览器不支持 video 标签。
     </video>
     <p style="text-align: center; margin-top: 8px;">视频标题 2</p>
