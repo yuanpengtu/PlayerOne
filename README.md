@@ -4,16 +4,14 @@
   <img src="./assets/attn-mask.png" width=100%>
 </p>
 
-**Authors:** [Zhening Xing](https://github.com/LeoXing1996), [Gereon Fox](https://people.mpi-inf.mpg.de/~gfox/), [Yanhong Zeng](https://zengyh1900.github.io/), [Xingang Pan](https://xingangpan.github.io/), [Mohamed Elgharib](https://people.mpi-inf.mpg.de/~elgharib/), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/), [Kai Chen †](https://chenkai.site/) (†: corresponding author)
+**Authors:** [Yuanpeng Tu](https://github.com/LeoXing1996), [Hao Luo](https://people.mpi-inf.mpg.de/~gfox/), [Xi Chen](https://zengyh1900.github.io/), [Xiang Bai](https://xingangpan.github.io/), [Fan Wang](https://people.mpi-inf.mpg.de/~elgharib/), [Hengshuang Zhao †](https://people.mpi-inf.mpg.de/~theobalt/) (†: corresponding author)
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2407.08701-b31b1b.svg)](https://arxiv.org/abs/2407.08701)
-[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://live2diff.github.io/)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://playerone-hku.github.io/)
 <a target="_blank" href="https://huggingface.co/spaces/Leoxing/Live2Diff">
-  <img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg" alt="Open in HugginFace"/>
+  <img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg" alt="HugginFace"/>
 </a>
-[![HuggingFace Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/Leoxing/Live2Diff)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Oo0KpOboBAO10ZG_nIB55zbDHpt-Pu68?usp=sharing)
 
 ## Introduction Video
 
@@ -45,11 +43,6 @@ The speed evaluation is conducted on **Ubuntu 20.04.6 LTS** and **Pytorch 2.2.2*
 | 768 x 512  |  **On**  | **12.15** |
 | 768 x 512  |   Off    |   6.29    |
 
-
-
-### Notification
-
-The above installation steps (e.g. [download script](#step4-download-checkpoints-and-demo-data)) are for Linux users and not well tested on Windows. If you face any difficulties, please feel free to open an issue 🤗.
 
 
 
