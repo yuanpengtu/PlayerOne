@@ -48,7 +48,7 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 <table class="center">
 <tr>
     <td width=98% style="border: none">
-        <video controls loop src="/assets/MotionVideoAlign.mp4" muted="false"></video>
+        <video controls loop src="[/assets/MotionVideoAlign.mp4](https://github.com/yuanpengtu/PlayerOne/raw/refs/heads/main/assets/AblationStudy.mp4)" muted="false"></video>
     </td>
 </tr>
 </table>
@@ -58,10 +58,10 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 <table class="center">
 <tr>
     <td width=47% style="border: none">
-        <video controls preload="auto" src="./assets/AblationStudy.mp4"></video>
+        <video controls preload="auto" src="[./assets/AblationStudy.mp4](https://github.com/yuanpengtu/PlayerOne/raw/refs/heads/main/assets/AblationStudy.mp4)"></video>
     </td>
     <td width=53% style="border: none">
-        <video controls loop src="[https://raw.githubusercontent.com/yuanpengtu/PlayerOne/main/assets/AblationStudy.mp4](https://github.com/yuanpengtu/PlayerOne/raw/refs/heads/main/assets/AblationStudy.mp4)" muted="false"></video>
+        <video controls loop src="https://github.com/yuanpengtu/PlayerOne/raw/refs/heads/main/assets/AblationStudy.mp4" muted="false"></video>
     </td>
 </tr>
 </table>
