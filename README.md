@@ -26,11 +26,11 @@
   </p>
 </p>
 
-This repository is the official implementation of paper "Animate-X: Universal Character Image Animation with Enhanced Motion Representation". Animate-X is a universal animation framework based on latent diffusion models for various character types (collectively named X), including anthropomorphic characters.
+This repository is the official implementation of paper "PlayerOne: Egocentric World Simulator". PlayerOne is the first egocentric realistic world simulator, facilitating immersive and unrestricted exploration within vividly dynamic environments. Given an egocentric scene image from the user, PlayerOne can accurately construct the corresponding world and generate egocentric videos that are strictly aligned with the real-scene human motion of the user captured by an exocentric camera. 
   <table align="center">
     <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/fb2f4396-341f-4206-8d70-44d8b034f810">
+      <img src="/assets/teaser.png">
     </td>
     </tr>
   </table>
