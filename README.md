@@ -58,10 +58,7 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 <table class="center">
 <tr>
     <td width=47% style="border: none">
-        <video controls loop muted width="100%">
-  <source src="/assets/AblationStudy.mp4" type="video/mp4">
-  您的浏览器不支持视频播放。
-</video>
+        <video controls loop src="./assets/AblationStudy.mp4" muted="false"></video>
     </td>
     <td width=53% style="border: none">
         <video controls loop src="/assets/AblationStudy.mp4" muted="false"></video>
