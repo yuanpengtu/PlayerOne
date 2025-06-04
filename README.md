@@ -78,7 +78,7 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
     <td height=25% width=50% style="border: none">
         <video controls loop src="https://github.com/user-attachments/assets/73d53b31-ac48-4b97-b2bf-a3d8c1d4f3ff" muted="false"></video>
     </td>
-        <td height=25% width=50% style="border: none">
+        <td width=50% style="border: none">
         <video controls loop src="https://github.com/user-attachments/assets/3488092a-f918-4c7d-86ee-b0de46668ccd" muted="false"></video>
     </td>
 </tr>
@@ -108,11 +108,8 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 
 <table class="center">
 <tr>
-    <td width=50% style="border: none">
+    <td width=100% style="border: none">
         <video controls loop src="https://github.com/user-attachments/assets/cfd1228b-ee4e-4d95-b378-b79c41aa247d" muted="false"></video>
-    </td>
-        <td width=50% style="border: none">
-        <video controls loop src="https://github.com/user-attachments/assets/5fef5527-f938-4484-bf89-51361ff7ee17" muted="false"></video>
     </td>
 </tr>
 </table>
