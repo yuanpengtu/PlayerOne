@@ -58,7 +58,7 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 <table class="center">
 <tr>
     <td width=47% style="border: none">
-        <video controls loop src="/assets/" muted="false"></video>
+        <video controls loop src="/assets/AblationStudy.mp4" muted="false"></video>
     </td>
     <td width=53% style="border: none">
         <video controls loop src="/assets/AblationStudy.mp4" muted="false"></video>
