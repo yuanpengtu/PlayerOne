@@ -1,63 +1,126 @@
-# PlayerOne: Egocentric World Simulator
 
 <p align="center">
-  <img src="./assets/attn-mask.png" width=100%>
+
+  <h2 align="center">PlayerOne: Egocentric World Simulator</h2>
+  <p align="center">
+    <a href=""><strong>Yuanpeng Tu</strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=7QvWnzMAAAAJ&hl=zh-CN"><strong>Hao Luo</strong></a>
+    ·
+    <a href="https://xavierchen34.github.io/"><strong>Xi Chen</strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=en"><strong>Xiang Bai</strong></a>
+    <br>
+    <a href="https://scholar.google.com/citations?user=WCRGTHsAAAAJ&hl=en"><strong>Fan Wang</strong></a>
+    ·
+    <a href="https://hszhao.github.io/"><strong>Hengshuang Zhao</strong></a><sup>†</sup>
+    <br>
+    <br>
+        <a href="https://arxiv.org/abs/2410.10306"><img src='https://img.shields.io/badge/arXiv-PlayerOne-red' alt='Paper PDF'></a>
+        <a href='https://playerone-hku.github.io/'><img src='https://img.shields.io/badge/Project_Page-PlayerOne-blue' alt='Project Page'></a>
+        <!-- <a href='https://mp.weixin.qq.com/s/vDR4kPLqnCUwfPiBNKKV9A'><img src='https://badges.aleen42.com/src/wechat.svg'></a> -->
+        <!-- <a href='https://huggingface.co/Shuaishuai0219/Animate-X'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'></a> -->
+    <br>
+    <b></a>HKU &nbsp; | &nbsp; </a> Alibaba DAMO Academy</b>
+    <br>
+  </p>
 </p>
 
-**Authors:** [Yuanpeng Tu](https://github.com/LeoXing1996), [Hao Luo](https://people.mpi-inf.mpg.de/~gfox/), [Xi Chen](https://zengyh1900.github.io/), [Xiang Bai](https://xingangpan.github.io/), [Fan Wang](https://people.mpi-inf.mpg.de/~elgharib/), [Hengshuang Zhao †](https://people.mpi-inf.mpg.de/~theobalt/) (†: corresponding author)
+This repository is the official implementation of paper "Animate-X: Universal Character Image Animation with Enhanced Motion Representation". Animate-X is a universal animation framework based on latent diffusion models for various character types (collectively named X), including anthropomorphic characters.
+  <table align="center">
+    <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/fb2f4396-341f-4206-8d70-44d8b034f810">
+    </td>
+    </tr>
+  </table>
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2407.08701-b31b1b.svg)](https://arxiv.org/abs/2407.08701)
-[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://playerone-hku.github.io/)
-<a target="_blank" href="https://huggingface.co/spaces/Leoxing/Live2Diff">
-  <img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg" alt="HugginFace"/>
-</a>
-
-## Introduction Video
-
-[![Youtube Introduction Video](https://github.com/user-attachments/assets/548e200e-90c3-4d51-a1d2-3f5ba78cb151)](https://youtu.be/4w2cLRW3RX0)
-
-
-## TODO List
-
-- [x] Support Colab
-
-## Key Features
-
-<p align="center">
-  <img src="./assets/framework.jpg" width=100%>
-</p>
-
-* **Uni-directional** Temporal Attention with **Warmup** Mechanism
-* **Multitimestep KV-Cache** for Temporal Attention during Inference
-* **Depth Prior** for Better Structure Consistency
-* Compatible with **DreamBooth and LoRA** for Various Styles
-* **TensorRT** Supported
-
-The speed evaluation is conducted on **Ubuntu 20.04.6 LTS** and **Pytorch 2.2.2** with **RTX 4090 GPU** and **Intel(R) Xeon(R) Platinum 8352V CPU**. Denoising steps are set as 2.
-
-| Resolution | TensorRT |    FPS    |
-| :--------: | :------: | :-------: |
-| 512 x 512  |  **On**  | **16.43** |
-| 512 x 512  |   Off    |   6.91    |
-| 768 x 512  |  **On**  | **12.15** |
-| 768 x 512  |   Off    |   6.29    |
+## &#x1F4CC; Updates
+* [2025.6.10] 🔥 Our [paper](https://arxiv.org/abs/2410.10306) is in public on arxiv.
 
 
 
+<!-- <video controls loop src="https://cloud.video.taobao.com/vod/vs4L24EAm6IQ5zM3SbN5AyHCSqZIXwmuobrzqNztMRM.mp4" muted="false"></video> -->
 
-## Acknowledgements
+## &#x1F304; Gallery
+### Demonstration of Motion Video Alignment 
+<table class="center">
+<tr>
+    <td width=47% style="border: none">
+        <video controls loop src="./" muted="false"></video>
+    </td>
+    <td width=53% style="border: none">
+        <video controls loop src="./" muted="false"></video>
+    </td>
+</tr>
+</table>
 
-The design of Video Diffusion Model is built with [Wanx](https://github.com/modelscope/DiffSynth-Studio) and [CUT3R](https://github.com/CUT3R/CUT3R). We use [CausVid]([https://github.com/lewiji/MiDaS](https://github.com/tianweiy/CausVid)) implementation to support real-time generation. 
 
-## BibTex
+### More simulated videos produced by PlayerOne
+<table class="center">
+<tr>
+    <td width=47% style="border: none">
+        <video controls loop src="./" muted="false"></video>
+    </td>
+    <td width=53% style="border: none">
+        <video controls loop src="./" muted="false"></video>
+    </td>
+</tr>
+</table>
 
-If you find it helpful, please consider citing our work:
 
-```bibtex
+
+### Comparisons with previous works
+<table class="center">
+<tr>
+    <td width=50% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/732a3445-2054-4e7b-9c2d-9db21c39771e" muted="false"></video>
+    </td>
+        <td width=50% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/f25af02c-e5be-4cab-ae64-c9e0b392643a" muted="false"></video>
+    </td>
+</tr>
+</table>
+
+<table class="center">
+<tr>
+    <td width=50% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/732a3445-2054-4e7b-9c2d-9db21c39771e" muted="false"></video>
+    </td>
+        <td width=50% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/f25af02c-e5be-4cab-ae64-c9e0b392643a" muted="false"></video>
+    </td>
+</tr>
+</table>
+
+<table class="center">
+<tr>
+    <td width=50% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/732a3445-2054-4e7b-9c2d-9db21c39771e" muted="false"></video>
+    </td>
+        <td width=50% style="border: none">
+        <video controls loop src="https://github.com/user-attachments/assets/f25af02c-e5be-4cab-ae64-c9e0b392643a" muted="false"></video>
+    </td>
+</tr>
+</table>
+
+
+
+## &#x1F4E7; Acknowledgement
+Our implementation is based on [Wanx](https://github.com/modelscope/DiffSynth-Studio), [CUT3R](https://github.com/CUT3R/CUT3R), and [CausVid](https://github.com/tianweiy/CausVid). Thanks for their remarkable contribution and released code! If we missed any open-source projects or related articles, we would like to complement the acknowledgement of this specific work immediately.
+
+## &#x2696; License
+This repository is released under the Apache-2.0 license as found in the [LICENSE](LICENSE) file.
+
+## &#x1F4DA; Citation
+If you find this codebase useful for your research, please use the following entry.
+```BibTeX
 @article{tu2025PlayerOne,
 title={PlayerOne: Egocentric World Simulator},
 author={Tu, Yuanpeng and Luo, Hao and Chen, Xi and Bai, Xiang and Wang, Fan and Zhao, Hengshuang},
 journal={arXiv preprint},
 year={2025}}
+        
+
 ```
