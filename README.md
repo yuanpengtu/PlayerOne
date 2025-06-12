@@ -16,7 +16,7 @@
     <a href="https://hszhao.github.io/"><strong>Hengshuang Zhao</strong></a><sup>†</sup>
     <br>
     <br>
-        <a href="https://arxiv.org/abs/2410.10306"><img src='https://img.shields.io/badge/arXiv-PlayerOne-red' alt='Paper PDF'></a>
+        <a href="https://arxiv.org/pdf/2506.09995"><img src='https://img.shields.io/badge/arXiv-PlayerOne-red' alt='Paper PDF'></a>
         <a href='https://playerone-hku.github.io/'><img src='https://img.shields.io/badge/Project_Page-PlayerOne-blue' alt='Project Page'></a>
         <!-- <a href='https://mp.weixin.qq.com/s/vDR4kPLqnCUwfPiBNKKV9A'><img src='https://badges.aleen42.com/src/wechat.svg'></a> -->
         <!-- <a href='https://huggingface.co/Shuaishuai0219/Animate-X'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'></a> -->
