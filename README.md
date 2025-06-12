@@ -37,7 +37,7 @@ This repository is the official implementation of paper "PlayerOne: Egocentric W
 
 
 ## &#x1F4CC; Updates
-* [2025.6.10] 🔥 Our [paper](https://arxiv.org/abs/2410.10306) is in public on arxiv.
+* [2025.6.12] 🔥 Our [paper](https://arxiv.org/pdf/2506.09995) is in public on arxiv.
 
 
 
